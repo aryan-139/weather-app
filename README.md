@@ -17,7 +17,7 @@ This application was built using the following technologies:
 - HTML
 - CSS
 - JavaScript
-- OpenWeatherMap API
+- RapidAPI
 
 ## Future Improvements
 
